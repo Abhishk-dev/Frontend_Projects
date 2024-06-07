@@ -1,2 +1,2 @@
 # RayalPark
-Unlock the secrets to creating a stunning hotel website with this step-by-step tutorial
+Attractive Website for Hotel Booking using HTML, CSS and JavaScript 
